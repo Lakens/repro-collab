@@ -42,7 +42,6 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Materials
 
-- **Tachistoscope**: A device that presents visual stimuli for precisely controlled durations
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
   - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
