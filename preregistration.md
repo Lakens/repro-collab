@@ -77,6 +77,7 @@ For each participant individually:
 1. Calculate median discrimination times for each stimulus difference
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
 3. Use hyperbolic coordinates to test whether the data follow the predicted reciprocal function
+4. Inc:something clever 
 
 ### Visual Inspection Criteria
 
